@@ -1,0 +1,22 @@
+.formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form {
+    background-color: beige;
+    width: 400px;
+    border-radius: 8px;
+    padding: 20px 40px;
+    box-shadow: 0 10px 23px ryba(92, 99, 105, .2);
+}
+
+body {
+    background-image: url(gym.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:  center;
+    background-attachment: fixed;
+}
